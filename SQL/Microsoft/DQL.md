@@ -192,12 +192,7 @@ MIN([field_name])
 ```
 
 ```
---- variance value ---
-VAR([field_name])
-```
-
-```
---- variance value ---
+--- variance ---
 VAR([field_name])
 ```
 
