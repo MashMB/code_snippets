@@ -7,7 +7,7 @@ package [name];
  *
  * @author ...
  * @version ...
-*/
+ */
 
 public class Main {
 
@@ -27,5 +27,5 @@ public class Main {
  * @return data_type ... description
  * @exception exception_name ... description
  * @see references
-*/
+ */
 ```
