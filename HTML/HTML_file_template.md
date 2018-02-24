@@ -25,7 +25,9 @@
 ### Default CSS template
 ```
 @charset "utf-8";
-/* @Author Maciej Bedra */
+/** 
+ * @author Maciej Bedra
+ */
 ```
 
 ### html5shiv.js file (proper website responsnes in Inernet Explorer)

@@ -1,0 +1,19 @@
+### File description
+```
+/**
+ * Description ...
+ * 
+ * @author ...
+ */
+```
+
+### Method description (before method declaration)
+```
+/**
+ * Description ...
+ *
+ * @param {parameter_type} parameter_name  - description ...
+ * @returns {parameter_type} description ...
+ * @throws {exception_type} description ...
+ */
+```
