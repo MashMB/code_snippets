@@ -10,12 +10,9 @@ Description ...
 
 ### Class description (after class declaration)
 ```
-class [class_name]([some_parameter]):
+class [class_name]:
 	"""
 	Description ...
-
-	:param [some_parameter]: description ...
-	:type [some_parameter]: type ...
 	"""
 ```
 
