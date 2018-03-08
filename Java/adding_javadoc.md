@@ -1,13 +1,13 @@
 ### Class description (before class declaration)
 ```
-package [name];
-
 /**
  * Description ...
  *
  * @author ...
  * @version ...
  */
+
+package [name];
 
 public class Main {
 
