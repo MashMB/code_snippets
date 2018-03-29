@@ -21,7 +21,7 @@ logger.info()
 logger.warning()
 logger.error()
 
-# Sean in DEBUG mode
+# Seen in DEBUG mode
 logger.info()
 logger.warning()
 logger.error()
